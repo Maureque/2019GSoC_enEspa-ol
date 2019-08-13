@@ -1,7 +1,11 @@
-# Nuevas reglas para el Marco de topología en gvSIG Desktop
+# Nuevas reglas para el Marco de Topología en gvSIG Desktop
 ## Google Summer of Code (GSoC) 2019 - OSGeo
 
-* Propuesta: [Crear nuevas reglas para el marco de topología en gvSIG Desktop](https://wiki.osgeo.org/wiki/GvSIG_GSoC_2019_Ideas)
+* Propuesta: [Crear nuevas reglas para el Marco de Topología en gvSIG Desktop](https://wiki.osgeo.org/wiki/GvSIG_GSoC_2019_Ideas)
+
+* Proyecto: [Google Summer of Code 2019 - Mauro Carlevaro](https://summerofcode.withgoogle.com/projects/#4557219033513984)
+
+* [Propuestas Aceptadas OSGeo](https://wiki.osgeo.org/wiki/Google_Summer_of_Code_2019_Accepted)
 
 * [Página Wiki](https://github.com/Maureque/2019GSoC_versionHablaHispana/wiki)
 
@@ -18,7 +22,7 @@ Se incluyen comentarios y recursos de ayuda con el proceso de descarga y de lanz
 ### Pre-requisitos
 
 * JRE/OpenJRE 7 o posterior
-* [gvSIG 2.4.0](http://www.gvsig.com/en/products/gvsig-desktop/downloads) - Descarga
+* [gvSIG - Descarga](http://www.gvsig.com/en/products/gvsig-desktop/downloads) - El marco de topología está presente desde la versión 2.5 en adelante
 
 Descargar e instalar la versión apropiada de **JRE/OpenJRE** para el correspondientes **SO** y **arquitectura**.  
 Descargar la correspondiente versión de **gvSIG Portable** según el **OS** y **arquitectura**.  
@@ -49,9 +53,9 @@ Dentro de la carpeta descomprimida, buscar ```gvsig-desktop.cmd``` en Windows o 
 
 ## Licencia
 
-Este proyecto esta licenciado bajo la licencia GPLv3.
+Este proyecto esta licenciado bajo la [licencia GPLv3](https://github.com/Maureque/2019GSoC_versionHablaHispana/blob/master/LICENSE).
 
 ## Agradeciemientos
 
-* gvSIG Association
-* OSGeo
+* [gvSIG Association](http://www.gvsig.com/es)
+* [OSGeo](https://www.osgeo.org/)
