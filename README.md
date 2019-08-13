@@ -49,7 +49,7 @@ Dentro de la carpeta descomprimida, buscar ```gvsig-desktop.cmd``` en Windows o 
 * **Mauro Carlevaro**
 
 ## Mentores
-* **Óscar Martínez, Mario Carrera Rodriguez, Alfred de Jager and Francisco Peñarrubia.**
+* **Óscar Martínez, Mario Carrera Rodriguez, Alfred de Jager y Francisco Peñarrubia.**
 
 ## Licencia
 
