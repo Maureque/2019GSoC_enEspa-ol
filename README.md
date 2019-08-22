@@ -7,7 +7,9 @@
 
 * [Propuestas Aceptadas OSGeo](https://wiki.osgeo.org/wiki/Google_Summer_of_Code_2019_Accepted)
 
-* [Página Wiki](https://github.com/Maureque/2019GSoC_versionHablaHispana/wiki)
+* [Página Wiki Habla Hispana](https://github.com/Maureque/2019GSoC_versionHablaHispana/wiki)
+* [Wiki page in English](https://github.com/Maureque/gvsig-gsoc2019-topology/wiki)
+* [Pagina Wiki in Italiano](https://github.com/Maureque/GSoC_2019-Italiano/wiki)
 
 * Repositorio que contiene todas las reglas desarrolladas para el marco de topología: https://github.com/gvsig-sandbox
 
